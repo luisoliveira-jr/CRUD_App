@@ -1,3 +1,25 @@
-# CRUD_Java_Swing_Mysql
+# Projeto CRUD App
 
-CRUD with Java Swing and MySQL
+Projeto full stack utilizando Java Swing e SQL MySQL
+
+Este projeto tem como base aplicações de gestão de cadastros.
+
+## Nesta versão, o usuário pode:
+
+- Criar um cadastro;
+- Fazer login simples sem criptografia;
+- Visualizar usuários;
+- Editar usuário;
+- Atualizar usuários;
+- Acessar listagem de usuários criados;
+- Deletar usuário;
+- Limpar formulário;
+- Exibição de alertas para o confimação do usuário em ações específicas (criar, editar, excluir)
+
+## Versão do Java
+
+java version "1.8.0_111"
+Java(TM) SE Runtime Environment (build 1.8.0_111-b14)
+Java HotSpot(TM) 64-Bit Server VM (build 25.111-b14, mixed mode)
+
+
