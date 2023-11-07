@@ -4,6 +4,8 @@ Projeto full stack utilizando Java Swing e MySQL
 
 Este projeto tem como base aplicações de gestão de cadastros.
 
+O arquivo dump.sql contém os detalhes do banco de dados e tabela criada.
+
 ## Nesta versão, o usuário pode:
 
 - Criar um cadastro;
