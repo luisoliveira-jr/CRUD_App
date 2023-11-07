@@ -1,6 +1,6 @@
 # Projeto CRUD App
 
-Projeto full stack utilizando Java Swing e SQL MySQL
+Projeto full stack utilizando Java Swing e MySQL
 
 Este projeto tem como base aplicações de gestão de cadastros.
 
